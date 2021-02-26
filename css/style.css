@@ -541,6 +541,10 @@ body.dark-theme {
   .contact__button {
     justify-self: center;
   }
+
+  .modal-window > div {
+    width: 200px;
+  }
 }
 
 @media screen and (min-width: 768px) {
